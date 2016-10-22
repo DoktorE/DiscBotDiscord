@@ -1,0 +1,16 @@
+{
+  "name": "discbot",
+  "version": "2.1.5",
+  "description": "",
+  "readme": "",
+  "maintainers": [],
+  "author": "doktor",
+  "license": "GNU",
+  "dependencies": {
+    "discord.js": "<=5.2.x",
+    , "winston": "1.0.x"
+    , "youtube-node": "1.2.x"
+	, "npm":""
+  },
+  "main": "disc.js"
+}
