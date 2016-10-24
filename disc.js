@@ -8,7 +8,7 @@ var Discord = require("discord.js");
 var fs = require('fs');
 var bot = new Discord.Client();
 
-bot.loginWithToken("MjEzNzI3ODcxNzYyNDMyMDA1.Co-r1g.lw4GF1spbtBUgXNQ8rSHeBiXrkQ", function(error, token) {
+bot.loginWithToken("", function(error, token) {
 	if (error) {
 		console.log("error logging in with token: " + token);
 	}
